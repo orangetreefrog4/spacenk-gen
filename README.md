@@ -1,1 +1,2 @@
 # spacenk-gen
+So...I don't personally care about SpaceNK, but they had a promo where all new user got a £10 gift card, so i wanted to create a script to generate accounts for it and get unlimited gift cards. I got everything ready to do it, and then tried to claim it just as a test (not with an automation), and couldn't figure put how, so whoops. i guess I'll just keep it here for playwright and API reference for myself.
